@@ -1,6 +1,6 @@
 Plane Game (Prototype) by John Simpsen.
 
-Simple game that aims to build the mechanics and structure of a full production game, but without any gameplay added.
+Simple game that aims to build the mechanics and structure of a full production game, but without any gameplay added. Made using pygame.
 
 Features:
   -Custom GUI
