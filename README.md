@@ -17,3 +17,7 @@ Features:
     -Health/Lives
     -Enemy Planes
     -Saving Highscore
+
+Other Functionality:
+  -Press F to cycle through window sizes
+  -Change audio volume using in-game menus
